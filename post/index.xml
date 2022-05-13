@@ -5,12 +5,52 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 22:18:39 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Latex</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Fri, 13 May 2022 22:18:39 +0300</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;h1 id=&#34;latex&#34;&gt;&lt;strong&gt;Latex&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;history&#34;&gt;&lt;strong&gt;History&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LaTeX was created in the early 1980s by Leslie Lamport, when he was working at SRI. He needed to write TeX macros for his own use, and thought that with a little extra effort he could make a general package usable by others. Peter Gordon, an editor at Addison-Wesley, convinced him to write a LaTeX user&amp;rsquo;s manual for publication (Lamport was initially skeptical that anyone would pay money for it); it came out in 1986and sold hundreds of thousands of copies.Meanwhile, Lamport released versions of his LaTeX macros in 1984 and 1985. On 21 August 1989, at a TeX Users Group (TUG) meeting at Stanford, Lamport agreed to turn over maintenance and development of LaTeX to Frank Mittelbach. Mittelbach, along with Chris Rodley and Reyner Schöpf, formed the LaTeX 3 team; in 1994, they released LaTeX2e, the current standard version. LaTeX3 itself has since been cancelled with version features intended for that version being backported to LaTeX2e since 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contents&#34;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;LaTeX is widely used in academia for the communication and publication of scientific documents in many fields, including mathematics, computer science, engineering, physics, chemistry, economics, linguistics, quantitative psychology, philosophy, and political science. It also has a prominent role in the preparation and publication of books and articles that contain complex multilingual materials, such as Sanskrit and Greek. LaTeX uses the TeX typesetting program for formatting its output, and is itself written in the TeX macro language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LaTeX can be used as a standalone document preparation system, or as an intermediate format. In the latter role, for example, it is sometimes used as part of a pipeline for translating DocBook and other XML-based formats to PDF. The typesetting system offers programmable desktop publishing features and extensive facilities for automating most aspects of typesetting and desktop publishing, including numbering and cross-referencing of tables and figures, chapter and section headings, the inclusion of graphics, page layout, indexing and bibliographies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Like TeX, LaTeX started as a writing tool for mathematicians and computer scientists, but even from early in its development, it has also been taken up by scholars who needed to write documents that include complex math expressions or non-Latin scripts, such as Arabic, Devanagari and Chinese.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LaTeX is intended to provide a high-level, descriptive markup language that accesses the power of TeX in an easier way for writers. In essence, TeX handles the layout side, while LaTeX handles the content side for document processing. LaTeX comprises a collection of TeX macros and a program to process LaTeX documents, and because the plain TeX formatting commands are elementary, it provides authors with ready-made commands for formatting and layout requirements such as chapter headings, footnotes, cross-references and bibliographies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>P020222</title>
+      <link>https://example.com/post/p020222/</link>
+      <pubDate>Fri, 13 May 2022 22:06:14 +0300</pubDate>
+      <guid>https://example.com/post/p020222/</guid>
+      <description>&lt;h1 id=&#34;post&#34;&gt;post&lt;/h1&gt;
+&lt;hr&gt;
+I&#39;ve been very tired this week, it&#39;s so hot, it&#39;s really hard to imagine
+</description>
+    </item>
     
     <item>
       <title>GIT</title>
