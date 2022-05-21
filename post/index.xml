@@ -5,12 +5,38 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 22:18:39 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 15:12:17 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>20223</title>
+      <link>https://example.com/post/20223/</link>
+      <pubDate>Sat, 21 May 2022 15:12:17 +0300</pubDate>
+      <guid>https://example.com/post/20223/</guid>
+      <description>&lt;h1 id=&#34;post&#34;&gt;post&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;im-really-busy-this-week-and-im-tired-i-hope-everything-will-get-better&#34;&gt;I&amp;rsquo;m really busy this week and I&amp;rsquo;m tired. I hope everything will get better.&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://example.com/post/presentations/</link>
+      <pubDate>Sat, 21 May 2022 15:06:03 +0300</pubDate>
+      <guid>https://example.com/post/presentations/</guid>
+      <description>&lt;h1 id=&#34;post&#34;&gt;post&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;dont-insult-and-slander-others-in-your-speech&#34;&gt;Don&amp;rsquo;t insult and slander others in your speech&lt;/h4&gt;
+&lt;h4 id=&#34;take-a-deep-breath-before-giving-a-speech-stay-confident-and-then-walk-to-the-podium-with-a-smile&#34;&gt;Take a deep breath before giving a speech, stay confident, and then walk to the podium with a smile&lt;/h4&gt;
+&lt;h4 id=&#34;be-prepared-to-answer-questions&#34;&gt;Be prepared to answer questions.&lt;/h4&gt;
+&lt;h4 id=&#34;you-have-to-remember-that-almost-no-one-in-the-audience-is-willing-to-swap-roles-with-you-so-you-have-to-be-confident&#34;&gt;You have to remember that almost no one in the audience is willing to swap roles with you, so you have to be confident.&lt;/h4&gt;
+&lt;h4 id=&#34;you-can-record-yourself-during-practice-and-then-listen-to-your-speech-until-you-are-accustomed-to-your-voice-and-way-of-speaking&#34;&gt;You can record yourself during practice, and then listen to your speech until you are accustomed to your voice and way of speaking.&lt;/h4&gt;
+</description>
+    </item>
     
     <item>
       <title>Latex</title>
