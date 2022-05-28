@@ -5,12 +5,23 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 17:15:16 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>C&#43;&#43;pro</title>
+      <link>https://example.com/project/c&#43;&#43;pro/</link>
+      <pubDate>Sat, 28 May 2022 17:15:16 +0300</pubDate>
+      <guid>https://example.com/project/c&#43;&#43;pro/</guid>
+      <description>&lt;h1 id=&#34;project&#34;&gt;project&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;i-havent-done-a-project-i-dont-know-if-the-homework-counts-if-it-counts-thats-it&#34;&gt;I haven&amp;rsquo;t done a project, I don&amp;rsquo;t know if the homework counts, if it counts, that&amp;rsquo;s it.&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>

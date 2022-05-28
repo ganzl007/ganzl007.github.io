@@ -5,12 +5,38 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 15:12:17 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 17:24:08 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Programming language</title>
+      <link>https://example.com/post/programming/</link>
+      <pubDate>Sat, 28 May 2022 17:24:08 +0300</pubDate>
+      <guid>https://example.com/post/programming/</guid>
+      <description>&lt;h1 id=&#34;post&#34;&gt;post&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a-programming-language-is-any-set-of-rules-that-converts-strings-or-graphical-program-elements-in-the-case-of-visual-programming-languages-to-various-kinds-of-machine-code-output-programming-languages-are-one-kind-of-computer-language-and-are-used-in-computer-programming-to-implement-algorithms&#34;&gt;A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. Programming languages are one kind of computer language, and are used in computer programming to implement algorithms.&lt;/h2&gt;
+&lt;h2 id=&#34;most-programming-languages-consist-of-instructions-for-computers-there-are-programmable-machines-that-use-a-set-of-specific-instructions-rather-than-general-programming-languages-since-the-early-1800s-programs-have-been-used-to-direct-the-behavior-of-machines-such-as-jacquard-looms-music-boxes-and-player-pianosthe-programs-for-these-machines-such-as-a-player-pianos-scrolls-did-not-produce-different-behavior-in-response-to-different-inputs-or-conditions&#34;&gt;Most programming languages consist of instructions for computers. There are programmable machines that use a set of specific instructions, rather than general programming languages. Since the early 1800s, programs have been used to direct the behavior of machines such as Jacquard looms, music boxes and player pianos.The programs for these machines (such as a player piano&amp;rsquo;s scrolls) did not produce different behavior in response to different inputs or conditions.&lt;/h2&gt;
+&lt;h2 id=&#34;thousands-of-different-programming-languages-have-been-created-and-more-are-being-created-every-year-many-programming-languages-are-written-in-an-imperative-form-ie-as-a-sequence-of-operations-to-perform-while-other-languages-use-the-declarative-form-ie-the-desired-result-is-specified-not-how-to-achieve-it&#34;&gt;Thousands of different programming languages have been created, and more are being created every year. Many programming languages are written in an imperative form (i.e., as a sequence of operations to perform) while other languages use the declarative form (i.e. the desired result is specified, not how to achieve it).&lt;/h2&gt;
+&lt;h2 id=&#34;the-description-of-a-programming-language-is-usually-split-into-the-two-components-of-syntax-form-and-semantics-meaning-which-are-usually-defined-by-a-formal-language-some-languages-are-defined-by-a-specification-document-for-example-the-c-programming-language-is-specified-by-an-iso-standard-while-other-languages-such-as-perl-have-a-dominant-implementation-that-is-treated-as-a-reference-some-languages-have-both-with-the-basic-language-defined-by-a-standard-and-extensions-taken-from-the-dominant-implementation-being-common&#34;&gt;The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning), which are usually defined by a formal language. Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference. Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common.&lt;/h2&gt;
+&lt;h2 id=&#34;programming-language-theory-is-a-subfield-of-computer-science-that-deals-with-the-design-implementation-analysis-characterization-and-classification-of-programming-languages&#34;&gt;Programming language theory is a subfield of computer science that deals with the design, implementation, analysis, characterization, and classification of programming languages.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>P20224</title>
+      <link>https://example.com/post/p20224/</link>
+      <pubDate>Sat, 28 May 2022 17:21:45 +0300</pubDate>
+      <guid>https://example.com/post/p20224/</guid>
+      <description>&lt;h1 id=&#34;post&#34;&gt;post&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;its-almost-summer-vacation-im-very-happy-and-i-can-play-happily-again&#34;&gt;It&amp;rsquo;s almost summer vacation, I&amp;rsquo;m very happy, and I can play happily again.&lt;/h4&gt;
+</description>
+    </item>
     
     <item>
       <title>20223</title>
